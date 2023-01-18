@@ -1,2 +1,0 @@
-# Hide all files .doc
-*.doc
